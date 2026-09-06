@@ -1,0 +1,3 @@
+[submodule "homework-1"]
+	path = homework-1
+	url = git@github.com:nisartahir/ai-dev-tools-homework-1.git
