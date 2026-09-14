@@ -1,3 +1,6 @@
 [submodule "homework-1"]
 	path = homework-1
 	url = git@github.com:nisartahir/ai-dev-tools-homework-1.git
+[submodule "homework-2"]
+	path = homework-2
+	url = git@github.com:nisartahir/ai-dev-tools-homework-2.git

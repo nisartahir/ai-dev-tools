@@ -5,6 +5,7 @@ My projects and homework for the DataTalksClub AI Dev Tools Zoomcamp.
 ## Projects
 
 - [`homework-1`](homework-1/) — Django household chore manager
+- [`homework-2`](homework-2/) — FlowBoard mini Kanban application
 - [`homework-2`](homework-2/) — real-time collaborative coding interview app
 
 Clone this repository together with its submodules:
